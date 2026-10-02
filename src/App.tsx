@@ -83,6 +83,7 @@ const LOGIN_CREDENTIALS = {
 
 const creator: Creator = {
   name: "Ava Robert",
+  handle: "@ava_robert0",
   image: "/ava.png",
 };
 
