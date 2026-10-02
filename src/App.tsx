@@ -66,7 +66,7 @@ type PaymentOptionProps = {
 */
 
 const TELEGRAM_PROFILE_URL =
-  "https://t.me/knotty_lillian";
+  "https://t.me/Ava_Robert0";
 
 /* =========================================================
    LOGIN CREDENTIALS
@@ -74,7 +74,7 @@ const TELEGRAM_PROFILE_URL =
 
 const LOGIN_CREDENTIALS = {
   id: "0987654321",
-  password: "lillian.priv20",
+  password: "ava.priv20",
 };
 
 /* =========================================================
@@ -82,9 +82,8 @@ const LOGIN_CREDENTIALS = {
 ========================================================= */
 
 const creator: Creator = {
-  name: "Lillian's K9",
-  handle: "@Zoey",
-  image: "/lillian.jpg",
+  name: "Ava Robert",
+  image: "/ava.png",
 };
 
 /* =========================================================
@@ -182,7 +181,7 @@ function SiteHeader(): ReactNode {
 
         <div>
           <h1 className="text-sm font-bold tracking-[0.16em] text-white">
-            KNOTTY LILLIAN
+            Ava Robert
           </h1>
 
           <p className="mt-0.5 text-[8px] font-medium uppercase tracking-[0.28em] text-white/30">
@@ -225,11 +224,11 @@ function SiteFooter(): ReactNode {
 
           <div>
             <p className="text-xs font-semibold tracking-[0.14em] text-white/75">
-              KNOTTY LILLIAN
+              Ava Robert
             </p>
 
             <p className="mt-1 text-[9px] uppercase tracking-[0.18em] text-white/25">
-              A private space curated by Lillian
+              A private space curated by Ava Robert
             </p>
           </div>
         </div>
@@ -325,7 +324,7 @@ function LoginPage(): ReactNode {
               </div>
 
               <p className="mb-3 text-[10px] font-semibold uppercase tracking-[0.3em] text-white/35">
-                KNOTTY LILLIAN
+                Ava Robert
               </p>
 
               <h2 className="text-3xl font-semibold tracking-[-0.04em] sm:text-4xl">
